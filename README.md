@@ -1,2 +1,0 @@
-# telegaBot
-telegram bot
